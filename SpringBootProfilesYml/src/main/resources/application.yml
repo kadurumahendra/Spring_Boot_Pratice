@@ -1,0 +1,5 @@
+payment:
+  provider: RazorPay
+  apikey: live-98765
+  endpoint: https://api.paypal.com/payment
+  timeout: 60

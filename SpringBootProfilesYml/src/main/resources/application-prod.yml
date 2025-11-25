@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: SpringBootProfilesYml
+payment:
+  provider: phonepe
+  apikey: live-1414
+  endpoint: https://api.phonepe.com/payment
+  timeout: 2

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: SpringBootProfilesYml
+payment:
+  provider: paytm
+#  apikey: live-1414
+  endpoint: https://api.paytm.com/payment
+  timeout: 2
