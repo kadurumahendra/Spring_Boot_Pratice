@@ -1,0 +1,73 @@
+myapp:
+  universityName: SS University
+  location: Hyderabad
+
+  dean:
+    name: Mahendra
+    experience: 12
+
+  departments:
+    - deptName: CSE
+      hod: Sandeep
+      students: 250
+    
+    - deptName: ECE
+      hod: Keerthi
+      students: 180
+
+
+
+hospital:
+  hospitalName: Narayana Hospital
+  city: Nellore
+
+  director:
+    name: Ponguru Narayana
+    experince: 10
+
+  wards:
+    - wardName: General
+      capacity: 10
+      incharge: Dr keerthi
+
+    - wardName: ICU
+      capacity: 15
+      incharge: Dr sandeep
+
+
+
+company:
+  companyName: Kodnest Technologies
+  location: Bangalore
+
+  ceo:
+    name: Mahendra
+    experience: 12
+
+  employees:
+    - empId: 101
+      empName: Sandeep
+      salary: 50000
+
+    - empId: 102
+      empName: Keerthi
+      salary: 60000
+
+
+
+school:
+  schoolName: Narayana
+  city: Nellore
+
+  principal:
+    name: Srinu
+    experince: 5
+
+  classrooms:
+    - roomNo: 101
+      classTeacher: Radhika
+      studentCount: 35
+
+    - roomNo: 102
+      classTeacher: Parkavi
+      studentCount: 50

@@ -1,0 +1,16 @@
+myapp:
+  bankName: SBI
+  branch: Naidupeta
+
+  manager:
+    name: Kaduru Mahendra
+    experience: 5
+
+  accounts:
+    - accNo: 40315
+      holderName: sandeep
+      balance: 50.00
+
+    - accNo: 40315230
+      holderName: sandeep1
+      balance: 100.00
