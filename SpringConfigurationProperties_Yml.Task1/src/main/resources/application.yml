@@ -1,0 +1,16 @@
+myres:
+  name: Mahendra
+  city: Nellore
+
+  owner:
+    ownerName: Keerthi
+    experience: 5
+
+  menu:
+    - itemName: Chicken
+      category: Veg
+      price: 400
+
+    - itemName: Fish
+      category: Non-veg
+      price: 300

@@ -1,0 +1,13 @@
+mylibrary:
+  libraryName: SSE
+  address: Chennai
+  librarian:
+    name: Mahendra
+    shift: Morning
+  books:
+    - title: Core java
+      author: Mahi
+      price: 50
+    - title: Python
+      author: Sandeep
+      price: 100
